@@ -39,6 +39,20 @@ button{
     cursor: pointer;
     background-color: #29ab87;
 }
+#pass-length-el{
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    text-align: center;
+}
+#pass-type-el{
+    position: relative;
+    vertical-align: middle;
+    margin: 5px;
+}
 hr{
     width: 100%;
     height: 2px;
